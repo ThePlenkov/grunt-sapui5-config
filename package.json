@@ -1,0 +1,22 @@
+{
+  "name": "grunt-sapui5-config",
+  "version": "1.0.0",
+  "description": "Config extension for @sap/grunt-sapui5-bestpractice-build grunt plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThePlenkov/grunt-sapui5-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThePlenkov/grunt-sapui5-config/issues"
+  },
+  "homepage": "https://github.com/ThePlenkov/grunt-sapui5-config#readme",
+  "dependencies": {
+    "lodash.mergewith": "^4.6.1"
+  }
+}
